@@ -7,5 +7,6 @@ package com.itheima;
 public class App {
     public static void main(String[] args) {
         System.out.println("---------java------------");
+        System.out.println("---------java1------------");
     }
 }
